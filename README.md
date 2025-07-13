@@ -1,1 +1,1 @@
-# Myntra-Scrape-Visualize
+# Myntra Review Scraper project
